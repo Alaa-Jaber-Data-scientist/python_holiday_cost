@@ -2,7 +2,7 @@
 > ****Holiday Planner****
 Welcome to the Holiday Planner! This program helps you calculate the cost of your next holiday based on your inputs. Choose your desired destination from a list of available cities, enter the number of hotel nights and rental days, and let the program do the rest!
 
-**** Instructions****
+** Instructions**
 
 -Run the program.
 
